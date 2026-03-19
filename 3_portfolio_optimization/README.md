@@ -13,5 +13,3 @@ This module implements classic portfolio optimization techniques used in quantit
 ### 3. Risk Parity Portfolio
 - Iterative risk budgeting solver
 - Equal risk contribution (ERC)
-
-
