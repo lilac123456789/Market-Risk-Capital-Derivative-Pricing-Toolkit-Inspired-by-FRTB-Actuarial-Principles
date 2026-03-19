@@ -14,5 +14,4 @@ This module implements classic portfolio optimization techniques used in quantit
 - Iterative risk budgeting solver
 - Equal risk contribution (ERC)
 
-These models connect linear algebra, statistics, and optimization—core skills needed for MSFE programs.
-``
+
